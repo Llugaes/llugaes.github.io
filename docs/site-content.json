@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rooms": {
+    "films": { "items": [] },
+    "learning": { "items": [] },
+    "diary": { "items": [] },
+    "tools": {
+      "items": [
+        {
+          "id": "bilingual-sora-2nd",
+          "title": "空之轨迹 the 2nd 中日双语对话 MOD",
+          "description": "项目源码与使用说明。",
+          "url": "https://github.com/Llugaes/bilingual-sora-2nd",
+          "cover": "./assets/bilingual-dialogue-zh-ja.jpg",
+          "coverAlt": "同一游戏对话框里的日文与中文实机截图"
+        }
+      ]
+    }
+  }
+}

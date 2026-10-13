@@ -1,0 +1,1089 @@
+{
+  "version": 1,
+  "repository": "https://github.com/Llugaes/game-journal",
+  "ref": "master",
+  "covers": {
+    "steam-3841510": "./assets/journal/cover-3841510.webp",
+    "steam-587260": "./assets/journal/steam-3815356964.webp",
+    "steam-4225980": "./assets/journal/cover-4225980.webp",
+    "steam-3669870": "./assets/journal/cover-3669870.webp",
+    "steam-5010190": "./assets/journal/steam-3792718444.webp",
+    "steam-3974650": "./assets/journal/steam-3790474029.webp",
+    "steam-1623730": "./assets/journal/steam-3777074408.webp",
+    "steam-2001760": "./assets/journal/steam-3777353824.webp",
+    "steam-4449410": "./assets/journal/steam-3769762870.webp",
+    "steam-881020": "./assets/journal/cover-881020.webp",
+    "steam-3821790": "./assets/journal/cover-3821790.webp",
+    "steam-2570810": "./assets/journal/cover-2570810.webp",
+    "steam-870780": "./assets/journal/cover-870780.webp",
+    "steam-3768760": "./assets/journal/cover-3768760.webp",
+    "steam-3280350": "./assets/journal/steam-3716896790.webp",
+    "steam-3357650": "./assets/journal/cover-3357650.webp",
+    "steam-1173770": "./assets/journal/cover-1173770.webp",
+    "steam-2277560": "./assets/journal/cover-2277560.webp",
+    "steam-2852190": "./assets/journal/cover-2852190.webp",
+    "steam-3321460": "./assets/journal/cover-3321460.webp",
+    "steam-3920610": "./assets/journal/cover-3920610.webp",
+    "steam-418370": "./assets/journal/cover-418370.webp",
+    "steam-3764200": "./assets/journal/cover-3764200.webp",
+    "steam-221040": "./assets/journal/cover-221040.webp",
+    "steam-222480": "./assets/journal/cover-222480.webp",
+    "steam-304240": "./assets/journal/cover-304240.webp",
+    "steam-952060": "./assets/journal/cover-952060.webp",
+    "steam-883710": "./assets/journal/cover-883710.webp",
+    "steam-339340": "./assets/journal/cover-339340.webp",
+    "steam-3937550": "./assets/journal/cover-3937550.webp",
+    "steam-1105510": "./assets/journal/cover-1105510.webp",
+    "steam-3681010": "./assets/journal/cover-3681010.webp",
+    "steam-3717340": "./assets/journal/cover-3717340.webp",
+    "steam-2384580": "./assets/journal/cover-2384580.webp",
+    "steam-4038930": "./assets/journal/cover-4038930.webp",
+    "steam-3717330": "./assets/journal/cover-3717330.webp",
+    "steam-2988580": "./assets/journal/cover-2988580.webp",
+    "steam-1858650": "./assets/journal/cover-1858650.webp",
+    "steam-283640": "./assets/journal/cover-283640.webp",
+    "steam-1850510": "./assets/journal/cover-1850510.webp",
+    "steam-2701660": "./assets/journal/cover-2701660.webp",
+    "steam-1020470": "./assets/journal/cover-1020470.webp",
+    "steam-2407270": "./assets/journal/cover-2407270.webp",
+    "steam-2622380": "./assets/journal/cover-2622380.webp",
+    "steam-678960": "./assets/journal/cover-678960.webp",
+    "steam-613830": "./assets/journal/cover-613830.webp",
+    "steam-2947440": "./assets/journal/cover-2947440.webp",
+    "steam-3447040": "./assets/journal/cover-3447040.webp",
+    "steam-1030300": "./assets/journal/cover-1030300.webp",
+    "steam-1285190": "./assets/journal/cover-1285190.webp",
+    "steam-962130": "./assets/journal/cover-962130.webp",
+    "steam-3046600": "./assets/journal/cover-3046600.webp",
+    "steam-1903340": "./assets/journal/cover-1903340.webp",
+    "steam-1627720": "./assets/journal/cover-1627720.webp",
+    "steam-335300": "./assets/journal/cover-335300.webp",
+    "steam-1608070": "./assets/journal/cover-1608070.webp",
+    "steam-1868140": "./assets/journal/cover-1868140.webp",
+    "steam-2138090": "./assets/journal/cover-2138090.webp",
+    "steam-2680010": "./assets/journal/cover-2680010.webp",
+    "steam-2001120": "./assets/journal/cover-2001120.webp",
+    "steam-2246340": "./assets/journal/cover-2246340.webp",
+    "steam-3061810": "./assets/journal/cover-3061810.webp",
+    "steam-1462040": "./assets/journal/cover-1462040.webp",
+    "steam-2679460": "./assets/journal/cover-2679460.webp",
+    "steam-2215430": "./assets/journal/cover-2215430.webp",
+    "steam-2358720": "./assets/journal/cover-2358720.webp",
+    "steam-553420": "./assets/journal/cover-553420.webp",
+    "steam-1235140": "./assets/journal/cover-1235140.webp",
+    "steam-1245620": "./assets/journal/cover-1245620.webp",
+    "steam-1325200": "./assets/journal/cover-1325200.webp",
+    "steam-570940": "./assets/journal/cover-570940.webp",
+    "steam-2072450": "./assets/journal/cover-2072450.webp",
+    "steam-436670": "./assets/journal/cover-436670.webp",
+    "steam-1332010": "./assets/journal/cover-1332010.webp",
+    "steam-1468810": "./assets/journal/cover-1468810.webp",
+    "steam-740130": "./assets/journal/cover-740130.webp",
+    "steam-1088710": "./assets/journal/cover-1088710.webp",
+    "steam-397540": "./assets/journal/cover-397540.webp",
+    "steam-761600": "./assets/journal/cover-761600.webp",
+    "steam-1113000": "./assets/journal/cover-1113000.webp",
+    "steam-614570": "./assets/journal/cover-614570.webp",
+    "steam-403640": "./assets/journal/cover-403640.webp",
+    "steam-105600": "./assets/journal/cover-105600.webp",
+    "steam-261550": "./assets/journal/cover-261550.webp",
+    "steam-485510": "./assets/journal/cover-485510.webp",
+    "steam-374320": "./assets/journal/cover-374320.webp",
+    "steam-205100": "./assets/journal/cover-205100.webp",
+    "steam-570780": "./assets/journal/cover-570780.webp",
+    "steam-752590": "./assets/journal/cover-752590.webp",
+    "steam-814380": "./assets/journal/cover-814380.webp",
+    "steam-812140": "./assets/journal/steam-1837139629.webp",
+    "steam-921570": "./assets/journal/cover-921570.webp",
+    "steam-927380": "./assets/journal/cover-927380.webp",
+    "steam-601150": "./assets/journal/cover-601150.webp",
+    "steam-638970": "./assets/journal/cover-638970.webp",
+    "steam-834530": "./assets/journal/cover-834530.webp",
+    "steam-582010": "./assets/journal/cover-582010.webp",
+    "steam-582160": "./assets/journal/cover-582160.webp",
+    "steam-351970": "./assets/journal/steam-1446584649.webp",
+    "steam-363970": "./assets/journal/cover-363970.webp",
+    "steam-582500": "./assets/journal/cover-582500.webp",
+    "steam-587620": "./assets/journal/cover-587620.webp",
+    "steam-493200": "./assets/journal/cover-493200.webp",
+    "steam-524220": "./assets/journal/cover-524220.webp",
+    "steam-349040": "./assets/journal/cover-349040.webp",
+    "steam-377160": "./assets/journal/cover-377160.webp",
+    "steam-201870": "./assets/journal/cover-201870.webp",
+    "steam-33230": "./assets/journal/cover-33230.webp",
+    "steam-359310": "./assets/journal/cover-359310.webp",
+    "steam-48190": "./assets/journal/cover-48190.webp",
+    "steam-665180": "./assets/journal/cover-665180.webp",
+    "steam-711990": "./assets/journal/cover-711990.webp",
+    "steam-720280": "./assets/journal/cover-720280.webp",
+    "steam-323320": "./assets/journal/cover-323320.webp",
+    "steam-426790": "./assets/journal/cover-426790.webp",
+    "steam-502280": "./assets/journal/cover-502280.webp",
+    "steam-567090": "./assets/journal/cover-567090.webp",
+    "steam-551730": "./assets/journal/cover-551730.webp",
+    "steam-384190": "./assets/journal/cover-384190.webp",
+    "steam-211420": "./assets/journal/cover-211420.webp"
+  },
+  "sources": {
+    "steam-3841510": {
+      "path": "public/media/steam/cover-3841510.webp",
+      "sha": "862230800e9ed7eccf258ac339fb46b0cb1ef674",
+      "bytes": 4036,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-587260": {
+      "path": "public/media/steam/steam-3815356964.webp",
+      "sha": "8de01e2adb73c1956e0d7769ac8ecc95eacbaa16",
+      "bytes": 137078,
+      "width": 1600,
+      "height": 900,
+      "format": "WEBP"
+    },
+    "steam-4225980": {
+      "path": "public/media/steam/cover-4225980.webp",
+      "sha": "3d21dea14e64d386c897d482e0ae7fb3dff17c32",
+      "bytes": 4874,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3669870": {
+      "path": "public/media/steam/cover-3669870.webp",
+      "sha": "a4dfd3a51a5ae67b219b96374f1196e609faa84b",
+      "bytes": 4606,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-5010190": {
+      "path": "public/media/steam/steam-3792718444.webp",
+      "sha": "c15028418b873592fa147323c80bbab376401f16",
+      "bytes": 81550,
+      "width": 1600,
+      "height": 900,
+      "format": "WEBP"
+    },
+    "steam-3974650": {
+      "path": "public/media/steam/steam-3790474029.webp",
+      "sha": "2afe08b375ea2995f481b0b8a1554116b96bf4b3",
+      "bytes": 206720,
+      "width": 1600,
+      "height": 900,
+      "format": "WEBP"
+    },
+    "steam-1623730": {
+      "path": "public/media/steam/steam-3777074408.webp",
+      "sha": "781fb186420f1c5072b843906ae452fef61d8d34",
+      "bytes": 62180,
+      "width": 1600,
+      "height": 900,
+      "format": "WEBP"
+    },
+    "steam-2001760": {
+      "path": "public/media/steam/steam-3777353824.webp",
+      "sha": "1f605d23b992bda8d92d8d9647c33de93299508d",
+      "bytes": 112682,
+      "width": 1600,
+      "height": 900,
+      "format": "WEBP"
+    },
+    "steam-4449410": {
+      "path": "public/media/steam/steam-3769762870.webp",
+      "sha": "d99408cc5a488cb0d82d6e089018bb5212a6026c",
+      "bytes": 100836,
+      "width": 1600,
+      "height": 900,
+      "format": "WEBP"
+    },
+    "steam-881020": {
+      "path": "public/media/steam/cover-881020.webp",
+      "sha": "2cb552e3e3f49a775a6497d2a3679cf724800593",
+      "bytes": 4270,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3821790": {
+      "path": "public/media/steam/cover-3821790.webp",
+      "sha": "c0154d4a28d819579f7abde96c00f0d11175ed21",
+      "bytes": 5060,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2570810": {
+      "path": "public/media/steam/cover-2570810.webp",
+      "sha": "98181a671b1bcaae8090e571bba557fd83b08f04",
+      "bytes": 5542,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-870780": {
+      "path": "public/media/steam/cover-870780.webp",
+      "sha": "866915e865f2f07f8e578b16596ef31c4facca98",
+      "bytes": 3710,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3768760": {
+      "path": "public/media/steam/cover-3768760.webp",
+      "sha": "af6d0b16c81260d3073ac733ba3bcd44f7affd02",
+      "bytes": 2596,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3280350": {
+      "path": "public/media/steam/steam-3716896790.webp",
+      "sha": "9bc4174450526b8a316c35bda6050b122472e1f4",
+      "bytes": 46868,
+      "width": 1600,
+      "height": 900,
+      "format": "WEBP"
+    },
+    "steam-3357650": {
+      "path": "public/media/steam/cover-3357650.webp",
+      "sha": "5e9346c02a5ebe823a7ccfd97fbcdffb177780c2",
+      "bytes": 5110,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1173770": {
+      "path": "public/media/steam/cover-1173770.webp",
+      "sha": "eabf7975b60d6de17e1f0f608b67284b697d090c",
+      "bytes": 2394,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2277560": {
+      "path": "public/media/steam/cover-2277560.webp",
+      "sha": "9d37337eccd6098be243367b9ad393815bcba8c8",
+      "bytes": 4434,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2852190": {
+      "path": "public/media/steam/cover-2852190.webp",
+      "sha": "f4e61f12238c63249a54b7a4f9057c228ee5b4e1",
+      "bytes": 3878,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3321460": {
+      "path": "public/media/steam/cover-3321460.webp",
+      "sha": "5d91ecab8bc2663c65b8922ec2a0f59979328e29",
+      "bytes": 2994,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3920610": {
+      "path": "public/media/steam/cover-3920610.webp",
+      "sha": "3cc1735c74ad269d7072922046f4a343c6d1b009",
+      "bytes": 4400,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-418370": {
+      "path": "public/media/steam/cover-418370.webp",
+      "sha": "bccc62f37b9fd56547bbe570e45743299c627bbe",
+      "bytes": 5460,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3764200": {
+      "path": "public/media/steam/cover-3764200.webp",
+      "sha": "33739859c6e4f0eea1cb74ff1fcf850474b569d4",
+      "bytes": 5062,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-221040": {
+      "path": "public/media/steam/cover-221040.webp",
+      "sha": "347bf37deb2c4e88428a01afd1ffc7dc57f4d29e",
+      "bytes": 2266,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-222480": {
+      "path": "public/media/steam/cover-222480.webp",
+      "sha": "7cde46a2a7c16be9bf7d84f7483c63679db602ce",
+      "bytes": 3626,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-304240": {
+      "path": "public/media/steam/cover-304240.webp",
+      "sha": "510060c48ddea56ffd0605967c2f1c523d27d038",
+      "bytes": 4034,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-952060": {
+      "path": "public/media/steam/cover-952060.webp",
+      "sha": "bfe270cf74628b397ab44be3afb4a8cf2236f676",
+      "bytes": 4300,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-883710": {
+      "path": "public/media/steam/cover-883710.webp",
+      "sha": "9176ceb459bfd5f40ab4758b8e40e9d4b23d2de3",
+      "bytes": 4140,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-339340": {
+      "path": "public/media/steam/cover-339340.webp",
+      "sha": "669f116dfced6de5e54f492e256aa0d955a49c3a",
+      "bytes": 2742,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3937550": {
+      "path": "public/media/steam/cover-3937550.webp",
+      "sha": "1ddf85527fc3135d5c3ffbd201ad2bf9ce8855f5",
+      "bytes": 5026,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1105510": {
+      "path": "public/media/steam/cover-1105510.webp",
+      "sha": "2502c9420386f79a5c88f1de90f4b7b2b6f81eb4",
+      "bytes": 5010,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3681010": {
+      "path": "public/media/steam/cover-3681010.webp",
+      "sha": "ce8d65a39e59e18c7adb1a76f46365297ba080a2",
+      "bytes": 4102,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3717340": {
+      "path": "public/media/steam/cover-3717340.webp",
+      "sha": "763e1b1ca59c1f309e0e6d114d2f55230c37d661",
+      "bytes": 6440,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2384580": {
+      "path": "public/media/steam/cover-2384580.webp",
+      "sha": "2de97d6bb07de0c3679fba9e731825278fd8f100",
+      "bytes": 5230,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-4038930": {
+      "path": "public/media/steam/cover-4038930.webp",
+      "sha": "fc93dbaf6c7e503ea43586f9e5b68d207c36e50d",
+      "bytes": 5184,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3717330": {
+      "path": "public/media/steam/cover-3717330.webp",
+      "sha": "b84e36fd951af1e1c2cf76a43b6e6fc589f25955",
+      "bytes": 3232,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2988580": {
+      "path": "public/media/steam/cover-2988580.webp",
+      "sha": "b7b27a70b5629e0b20fa75ed8b2cefdd61f76801",
+      "bytes": 3652,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1858650": {
+      "path": "public/media/steam/cover-1858650.webp",
+      "sha": "3c3edcde568c6275ab10147bd1da03ddb9060798",
+      "bytes": 3816,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-283640": {
+      "path": "public/media/steam/cover-283640.webp",
+      "sha": "24b500343077e57618cc7700ec338b2c12dc6b5d",
+      "bytes": 4116,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1850510": {
+      "path": "public/media/steam/cover-1850510.webp",
+      "sha": "3f98a4cf3aec4505bb18d7fb4ea671845df789ff",
+      "bytes": 3950,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2701660": {
+      "path": "public/media/steam/cover-2701660.webp",
+      "sha": "d0a39dce5b7cc9d8e768f564ec12d907e8ad8aa5",
+      "bytes": 6094,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1020470": {
+      "path": "public/media/steam/cover-1020470.webp",
+      "sha": "e85ffcefe1808e56df1559a3da3d0fc7eb219f50",
+      "bytes": 7234,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2407270": {
+      "path": "public/media/steam/cover-2407270.webp",
+      "sha": "4f8b6ec7bdd63c82bfaa7b1ac6f13ab006ccaf6e",
+      "bytes": 5800,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2622380": {
+      "path": "public/media/steam/cover-2622380.webp",
+      "sha": "85535073f6024e8162657db4c39066329a49339c",
+      "bytes": 3458,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-678960": {
+      "path": "public/media/steam/cover-678960.webp",
+      "sha": "6be775bf6cb64759a48b141d1e18ebc1bdc8ab83",
+      "bytes": 5112,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-613830": {
+      "path": "public/media/steam/cover-613830.webp",
+      "sha": "4b1ce45d9bd3b94f012ba4eda62bc0c80019716c",
+      "bytes": 2590,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2947440": {
+      "path": "public/media/steam/cover-2947440.webp",
+      "sha": "e0d5b5c369d79a0e6fd9ad6405182b21b1708916",
+      "bytes": 3580,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3447040": {
+      "path": "public/media/steam/cover-3447040.webp",
+      "sha": "3f57f21790d5e7d26142cc089029e591dddab3d5",
+      "bytes": 7342,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1030300": {
+      "path": "public/media/steam/cover-1030300.webp",
+      "sha": "bab81777c402bc6cab19258c62bade3f93f75a6b",
+      "bytes": 5528,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1285190": {
+      "path": "public/media/steam/cover-1285190.webp",
+      "sha": "2fdd8dbce74ecbffca43f854fbfcd2aeb59a5624",
+      "bytes": 4076,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-962130": {
+      "path": "public/media/steam/cover-962130.webp",
+      "sha": "626276f8bac5d46a2059a8531a0b7278fa787217",
+      "bytes": 5444,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3046600": {
+      "path": "public/media/steam/cover-3046600.webp",
+      "sha": "3abb7d7085cfe6ffc974b745e0e880ade22ba4a8",
+      "bytes": 5100,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1903340": {
+      "path": "public/media/steam/cover-1903340.webp",
+      "sha": "05516f8255348cd9bfbdeb787a60f5ec465b9f77",
+      "bytes": 4750,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1627720": {
+      "path": "public/media/steam/cover-1627720.webp",
+      "sha": "d5a0bd8a3a079053fec9410d0a11ad99450cc52b",
+      "bytes": 3436,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-335300": {
+      "path": "public/media/steam/cover-335300.webp",
+      "sha": "86a6fb965c59311c1b081a65912fd23a72ab4144",
+      "bytes": 3708,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1608070": {
+      "path": "public/media/steam/cover-1608070.webp",
+      "sha": "c1ae580db0c018b4ac3a46aa3f4e7102cbdb1a07",
+      "bytes": 4144,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1868140": {
+      "path": "public/media/steam/cover-1868140.webp",
+      "sha": "04056409d159a193e89e4374bc4c682b116680f5",
+      "bytes": 3686,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2138090": {
+      "path": "public/media/steam/cover-2138090.webp",
+      "sha": "8e1aed4635b8c9855de3d61999ef999ac3cfab97",
+      "bytes": 6268,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2680010": {
+      "path": "public/media/steam/cover-2680010.webp",
+      "sha": "8e0eae4897c04e432f3e903b3ff5caa832e10c8b",
+      "bytes": 2088,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2001120": {
+      "path": "public/media/steam/cover-2001120.webp",
+      "sha": "874765e16e5f93f6a55e150955da39222ff63bbd",
+      "bytes": 6566,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2246340": {
+      "path": "public/media/steam/cover-2246340.webp",
+      "sha": "009d22d4585221905b300c2383fde17eb262a632",
+      "bytes": 4034,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-3061810": {
+      "path": "public/media/steam/cover-3061810.webp",
+      "sha": "3ef1e3148881984c18179cf4f241efc4a6579ec4",
+      "bytes": 5792,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1462040": {
+      "path": "public/media/steam/cover-1462040.webp",
+      "sha": "01401e9a828cf14b8112848aa5fd8b3a6c891be4",
+      "bytes": 2702,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2679460": {
+      "path": "public/media/steam/cover-2679460.webp",
+      "sha": "8518e703d702f8f4262926aaafd7136148cfe0d4",
+      "bytes": 6046,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2215430": {
+      "path": "public/media/steam/cover-2215430.webp",
+      "sha": "817ea933f317b16a28d494b23cc6f8db2f26e23e",
+      "bytes": 3496,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2358720": {
+      "path": "public/media/steam/cover-2358720.webp",
+      "sha": "3f2a53b2d38a43a72fda88829ad7a3d1207ca255",
+      "bytes": 3620,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-553420": {
+      "path": "public/media/steam/cover-553420.webp",
+      "sha": "addf6dc39aca5a4b1f64d3170183a9b41e3920bb",
+      "bytes": 5414,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1235140": {
+      "path": "public/media/steam/cover-1235140.webp",
+      "sha": "68fda190cf062b27173a63291777081551004000",
+      "bytes": 5316,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1245620": {
+      "path": "public/media/steam/cover-1245620.webp",
+      "sha": "653706791ac06a30e83006ab64966c9db8971647",
+      "bytes": 1400,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1325200": {
+      "path": "public/media/steam/cover-1325200.webp",
+      "sha": "274321dec415e0c5fbb886af4f05f72eaf094efc",
+      "bytes": 4214,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-570940": {
+      "path": "public/media/steam/cover-570940.webp",
+      "sha": "8a01840144907d693bdf2efe0f1a10d30d081ff0",
+      "bytes": 3950,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-2072450": {
+      "path": "public/media/steam/cover-2072450.webp",
+      "sha": "338be2f5fd893687b8337e442b42310f7b736323",
+      "bytes": 4420,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-436670": {
+      "path": "public/media/steam/cover-436670.webp",
+      "sha": "9155479427f11f793595c94166fc986c51717040",
+      "bytes": 6530,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1332010": {
+      "path": "public/media/steam/cover-1332010.webp",
+      "sha": "edede8a67b2352c9ab681af4512b84a979f6ec3e",
+      "bytes": 4072,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1468810": {
+      "path": "public/media/steam/cover-1468810.webp",
+      "sha": "b492c4aca5d670c8c102ae36d9329e134d2b7456",
+      "bytes": 6458,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-740130": {
+      "path": "public/media/steam/cover-740130.webp",
+      "sha": "4626513a6ca246739bbd5c3963c8a424c1af7389",
+      "bytes": 3620,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1088710": {
+      "path": "public/media/steam/cover-1088710.webp",
+      "sha": "cfc8de88c54e0b27b63d225699992e6b74245536",
+      "bytes": 4126,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-397540": {
+      "path": "public/media/steam/cover-397540.webp",
+      "sha": "98dcfd6ed774098e4aed188d3c196a62f749a68e",
+      "bytes": 6236,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-761600": {
+      "path": "public/media/steam/cover-761600.webp",
+      "sha": "db665cf4b4098a6bad969c09e49a8202ecef1ca3",
+      "bytes": 5090,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-1113000": {
+      "path": "public/media/steam/cover-1113000.webp",
+      "sha": "850171ba9c9f9fa972eb3bd465a3ea202f4677c3",
+      "bytes": 7138,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-614570": {
+      "path": "public/media/steam/cover-614570.webp",
+      "sha": "e1e54ac68cbdc10d1e647aeff39dd57370edeb92",
+      "bytes": 4708,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-403640": {
+      "path": "public/media/steam/cover-403640.webp",
+      "sha": "cede7f1edfb516e6b8728e8d7a973b54f2fe38cf",
+      "bytes": 2990,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-105600": {
+      "path": "public/media/steam/cover-105600.webp",
+      "sha": "dd05d73232ad070886c05be2d6ed064e002c82d2",
+      "bytes": 4912,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-261550": {
+      "path": "public/media/steam/cover-261550.webp",
+      "sha": "7b8ee5baef1be3750cf560da1203b94c7edb2adc",
+      "bytes": 4640,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-485510": {
+      "path": "public/media/steam/cover-485510.webp",
+      "sha": "5fb9be13a53323d7b7871bddc55252ca9f01c0c6",
+      "bytes": 5428,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-374320": {
+      "path": "public/media/steam/cover-374320.webp",
+      "sha": "cdbc035eddcdadd543ed1f6b48e4c909e334b506",
+      "bytes": 2400,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-205100": {
+      "path": "public/media/steam/cover-205100.webp",
+      "sha": "0df498aeb17282519bafc7e534abfb422c0cccf5",
+      "bytes": 2672,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-570780": {
+      "path": "public/media/steam/cover-570780.webp",
+      "sha": "739e76a040484a4a7d7e507044704bd933258b44",
+      "bytes": 3300,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-752590": {
+      "path": "public/media/steam/cover-752590.webp",
+      "sha": "2e0915d9f48eec8a1c42759bbe9fe2ca353af0e0",
+      "bytes": 3932,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-814380": {
+      "path": "public/media/steam/cover-814380.webp",
+      "sha": "5264f08d9e7ff46a8004638419b3a5d8eb4de010",
+      "bytes": 2504,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-812140": {
+      "path": "public/media/steam/steam-1837139629.webp",
+      "sha": "d0759e175edf46a6dbf298628759022f7bf5a20e",
+      "bytes": 265636,
+      "width": 1600,
+      "height": 900,
+      "format": "WEBP"
+    },
+    "steam-921570": {
+      "path": "public/media/steam/cover-921570.webp",
+      "sha": "6df0165bb230b518a6df3503ac1fe7279c3dd4dc",
+      "bytes": 6708,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-927380": {
+      "path": "public/media/steam/cover-927380.webp",
+      "sha": "864ee854028d87ffe2a1e12263846defd2ac5d52",
+      "bytes": 5148,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-601150": {
+      "path": "public/media/steam/cover-601150.webp",
+      "sha": "d7aa713c64decf917b190c092d25440bd1e50721",
+      "bytes": 3750,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-638970": {
+      "path": "public/media/steam/cover-638970.webp",
+      "sha": "fbb990fb90b1d59151b350c9762c170dea33b06b",
+      "bytes": 4000,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-834530": {
+      "path": "public/media/steam/cover-834530.webp",
+      "sha": "ad1631ccc576e87be8a8bbd6d123844144647a9f",
+      "bytes": 4630,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-582010": {
+      "path": "public/media/steam/cover-582010.webp",
+      "sha": "a8365b825d9b38f9eb43be62cbb509a54a11e8fd",
+      "bytes": 5694,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-582160": {
+      "path": "public/media/steam/cover-582160.webp",
+      "sha": "2a5f7bdd4f7f45d7e9fc8d60f06a68c91a2bad7c",
+      "bytes": 4222,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-351970": {
+      "path": "public/media/steam/steam-1446584649.webp",
+      "sha": "4aed90e7702a717d47c4e6143af3455f0543e104",
+      "bytes": 118298,
+      "width": 1600,
+      "height": 900,
+      "format": "WEBP"
+    },
+    "steam-363970": {
+      "path": "public/media/steam/cover-363970.webp",
+      "sha": "a45f82366eff54a066a1cc1ca747a153b5edb24e",
+      "bytes": 5094,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-582500": {
+      "path": "public/media/steam/cover-582500.webp",
+      "sha": "d9f9065725c1699de1f7eca776d9459e1f599c88",
+      "bytes": 2788,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-587620": {
+      "path": "public/media/steam/cover-587620.webp",
+      "sha": "eaf1e7d0d38e73dee1f6578303c1bbde72932615",
+      "bytes": 7540,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-493200": {
+      "path": "public/media/steam/cover-493200.webp",
+      "sha": "8d6f694b44d2752b9383aaa1f11ab21956375689",
+      "bytes": 2452,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-524220": {
+      "path": "public/media/steam/cover-524220.webp",
+      "sha": "4423176b87c732f0746e1bf373e5bc60327ae06e",
+      "bytes": 3030,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-349040": {
+      "path": "public/media/steam/cover-349040.webp",
+      "sha": "d9a9e6c98ecf327e51da7b371259b0e080566324",
+      "bytes": 7080,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-377160": {
+      "path": "public/media/steam/cover-377160.webp",
+      "sha": "a85629be2e62c86a402d33163716ed08a2fb0b8f",
+      "bytes": 3816,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-201870": {
+      "path": "public/media/steam/cover-201870.webp",
+      "sha": "f3eedda2823edc6f02b3c3a94fa12893cff11b27",
+      "bytes": 3982,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-33230": {
+      "path": "public/media/steam/cover-33230.webp",
+      "sha": "aa401728c9b2ff05a846dd2a592f2f55a2e7ac47",
+      "bytes": 4212,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-359310": {
+      "path": "public/media/steam/cover-359310.webp",
+      "sha": "4910978801cd6cab93729dbb2ecd97b731451766",
+      "bytes": 5266,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-48190": {
+      "path": "public/media/steam/cover-48190.webp",
+      "sha": "c9b4ec40fab21c99bb9de704f1aa1bbae6c25cdd",
+      "bytes": 5460,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-665180": {
+      "path": "public/media/steam/cover-665180.webp",
+      "sha": "900d978ba45b54908d3f2ac8c2c8b90af0b38f31",
+      "bytes": 5448,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-711990": {
+      "path": "public/media/steam/cover-711990.webp",
+      "sha": "b26f2483e1601e93013bf61b8cb906c1a64bf226",
+      "bytes": 7372,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-720280": {
+      "path": "public/media/steam/cover-720280.webp",
+      "sha": "92faa2679d94918bc89bb3611fbb9abcf128f294",
+      "bytes": 6716,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-323320": {
+      "path": "public/media/steam/cover-323320.webp",
+      "sha": "7dd4fff8151078a82e822d9c3908b8493b1cfc9b",
+      "bytes": 3402,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-426790": {
+      "path": "public/media/steam/cover-426790.webp",
+      "sha": "2974c14d40d44df46d66be8a703e472779f199cf",
+      "bytes": 2818,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-502280": {
+      "path": "public/media/steam/cover-502280.webp",
+      "sha": "dc120cea57c5fab5964a99fcf398d2fa408b3c09",
+      "bytes": 6482,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-567090": {
+      "path": "public/media/steam/cover-567090.webp",
+      "sha": "a35f82b8fe6ed4a7c78c81a853b29e7455447edf",
+      "bytes": 4708,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-551730": {
+      "path": "public/media/steam/cover-551730.webp",
+      "sha": "c4f830c64549aa9969232dc5a4c17f4bee6cbde1",
+      "bytes": 5850,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-384190": {
+      "path": "public/media/steam/cover-384190.webp",
+      "sha": "337f7acf8f8369cf185c44afaabd28ca2e868d79",
+      "bytes": 4358,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    },
+    "steam-211420": {
+      "path": "public/media/steam/cover-211420.webp",
+      "sha": "2d9906235f582069a5b54fe9bf23e61fe13fe13a",
+      "bytes": 3816,
+      "width": 184,
+      "height": 69,
+      "format": "WEBP"
+    }
+  }
+}
